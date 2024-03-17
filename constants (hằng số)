@@ -1,1 +1,10 @@
+window.onload = function () {
+  const pi = 3.14;
+  funtcion calcArea(r) {
+    const p = 5;
+    console.log("The area is: " + pi * r * r);
+  }
+calcArea(5);
+console.log(pi);
 
+}
